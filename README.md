@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm mostly familiar with programming languages like C++, C. 
+Also trying to learn Kotlin with Jetpack Compose a bit now. 
+
+A project I'm currently working on is a Unofficial AniList Tracker in C++ and Qt. [More...](https://github.com/x8laye4r/AniLex)
+
+![Stats](./profile/stats.svg) ![Languages](profile/top-langs.svg)
+
 <!--
 **x8laye4r/x8laye4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
